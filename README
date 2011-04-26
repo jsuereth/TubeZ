@@ -1,0 +1,6 @@
+TubeZ:  A CoServlet API for the rest of us.
+
+ABSTRACT
+
+TubeZ is an asynchronous stream processing library designed for the development of high performance web-delivered content.   The Goal of TubeZ is the construction of processing streams of data (tubes).
+
